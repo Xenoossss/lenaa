@@ -26,10 +26,7 @@ function sendAnswer(answer) {
 
   const message =
 `hiii!! here's my answer hehe
-
-I just read your letter.
-
-My answer: ${answer}
+My answer is: ${answer}
 
 `;
 
