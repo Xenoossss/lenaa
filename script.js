@@ -49,5 +49,5 @@ document.getElementById("yesBtn").addEventListener("click", () => {
 
 // TALK BUTTON
 document.getElementById("talkBtn").addEventListener("click", () => {
-  sendAnswer("can we talk about it?");
+  sendAnswer("can we talk about it first?");
 });
