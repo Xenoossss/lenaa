@@ -31,7 +31,7 @@ I just read your letter.
 
 My answer: ${answer}
 
-♡`;
+`;
 
   const whatsappURL =
     "https://wa.me/" +
@@ -44,7 +44,7 @@ My answer: ${answer}
 
 // YES BUTTON
 document.getElementById("yesBtn").addEventListener("click", () => {
-  sendAnswer("YES, I'D LOVE TO ♡");
+  sendAnswer("YES, I'D LOVE TO ♡ (u can add a little message here if u want hhehe)");
 });
 
 // TALK BUTTON
